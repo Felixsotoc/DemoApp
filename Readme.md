@@ -16,3 +16,14 @@ le concatena el count que va. Así hasta terminar el string
 Una aplicación Android desarrollada en Java que contiene la pantalla de Perfil donde se muestra información de Felix Soto.
 Tambien otra opción del nav de Países consume un listado de países desde una llamada GET.
 Los liste dándole diseño tipo card, al darle clic te abre el detalle solicitado en el documento. 
+
+##  Especificaciones Técnicas
+
+- ** Java 21 (JDK 21)**
+
+- **Android SDK:** - `minSdk`: 33 (Android 13)
+
+  - `targetSdk`: 36
+
+- **Android Studio Otter** 
+
